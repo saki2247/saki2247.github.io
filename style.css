@@ -2,3 +2,6 @@ img {
     float: left;
     padding: 10px;
 }
+ul {
+    display: flex;
+}
